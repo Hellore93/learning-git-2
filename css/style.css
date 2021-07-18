@@ -1,0 +1,13 @@
+h1 {
+  font-size: 60px;
+}
+
+body{
+  width: 500px;
+  margin: auto;
+}
+
+a{
+  padding-top: 15px;
+  display:block;
+}
